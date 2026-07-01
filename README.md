@@ -1,6 +1,6 @@
 # US Macroeconomic Dashboard 🌍
 
-A Python-based dashboard tracking four key US macroeconomic indicators in real time using the FRED API (Federal Reserve Economic Data).
+A Python based dashboard tracking four key US macroeconomic indicators in real time using the FRED API (Federal Reserve Economic Data).
 
 ## Indicators Tracked
 - 📈 Yield Curve Spread (10Y - 2Y Treasury) with automatic recession flag
