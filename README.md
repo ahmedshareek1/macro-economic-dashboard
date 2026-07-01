@@ -2,7 +2,7 @@
 
 A Python based dashboard tracking four key US macroeconomic indicators in real time using the FRED API (Federal Reserve Economic Data).
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### 1. Yield Curve Spread (10Y - 2Y Treasury)
 ![Yield Curve](yield_curve.png)
@@ -17,10 +17,10 @@ A Python based dashboard tracking four key US macroeconomic indicators in real t
 ![GDP Growth](gdp_growth.png)
 
 ## Indicators Tracked
-- 📈 Yield Curve Spread with automatic recession flag
-- 💰 Inflation Rate (Year-over-Year CPI)
-- 👷 Unemployment Rate
-- 📊 GDP Growth Rate (Year-over-Year)
+- Yield Curve Spread with automatic recession flag
+- Inflation Rate (Year-over-Year CPI)
+- Unemployment Rate
+- GDP Growth Rate (Year-over-Year)
 
 ## Tools Used
 - Python
